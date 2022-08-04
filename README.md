@@ -1,2 +1,2 @@
 # wildan-resolusi
-RRepository untuk menyimpan rencana kedepannya
+Repository untuk menyimpan rencana kedepannya
